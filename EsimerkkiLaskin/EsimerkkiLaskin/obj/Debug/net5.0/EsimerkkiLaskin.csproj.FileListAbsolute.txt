@@ -1,0 +1,16 @@
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\EsimerkkiLaskin.exe
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\EsimerkkiLaskin.deps.json
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\EsimerkkiLaskin.runtimeconfig.json
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\EsimerkkiLaskin.runtimeconfig.dev.json
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\EsimerkkiLaskin.dll
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\ref\EsimerkkiLaskin.dll
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\bin\Debug\net5.0\EsimerkkiLaskin.pdb
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.csproj.AssemblyReference.cache
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.AssemblyInfoInputs.cache
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.AssemblyInfo.cs
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.csproj.CoreCompileInputs.cache
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.dll
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\ref\EsimerkkiLaskin.dll
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.pdb
+C:\Users\joona\source\repos\Githarjoitus20210917\EsimerkkiLaskin\EsimerkkiLaskin\obj\Debug\net5.0\EsimerkkiLaskin.genruntimeconfig.cache
